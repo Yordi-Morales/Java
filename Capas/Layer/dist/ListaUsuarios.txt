@@ -1,0 +1,4 @@
+Ale,12/06/2020,Masculino
+Ana,07/06/2002,Femenino
+Laura,04/06/1982,Femenino
+s,22/08/2020,Femenino
